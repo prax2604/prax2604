@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prax2604
-- 👀 I’m interested in algo trading
+- 👀 I’m interested in algo trading, high-frequency trading, trading models, trading indicators, machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on successful fully automated trading strategies
 - 📫 You can reach me on prakashbhudia@hotmail.com
